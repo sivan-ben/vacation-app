@@ -1,0 +1,15 @@
+
+
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: space-around;
+    margin-top: 50px;
+}
+
+    .card {
+        height: 518px;
+        width: 33%;
+        padding: 10px;
+    }
